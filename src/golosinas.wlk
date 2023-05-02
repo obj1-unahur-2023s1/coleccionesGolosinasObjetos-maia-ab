@@ -4,7 +4,6 @@ object bombon {
 }
 
 object alfajor {
-	//completar
+	//completar aca
 }
 
-// Completar el resto de las golosinas
